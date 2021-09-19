@@ -1,2 +1,2 @@
 # KirinEngine
-KirinEngine is an open-source FPS game engine written in C++/
+KirinEngine is an open-source FPS game engine written in C++
